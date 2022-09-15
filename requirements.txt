@@ -1,0 +1,16 @@
+Flask==1.1.4
+tensorflow-cpu==2.8.2
+keras==2.8.0
+Jinja2==2.11.3
+MarkupSafe==2.0.1
+matplotlib==3.2.2
+numpy==1.21.6
+pickleshare==0.7.5
+Pillow==7.1.2
+requests==2.23.0
+scikit-learn==1.0.2
+seaborn==0.11.2
+sklearn==0.0
+sklearn-pandas==1.8.0
+gunicorn == 20.1.0
+Werkzeug==1.0.1
